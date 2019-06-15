@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['N J C Soon','Type !nhelp',];
+    var setGame = ['N J C Community','Type !nhelp',];
     var i = -1;
     var j = 0;
     setInterval(function (){
